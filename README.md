@@ -26,15 +26,13 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-
-📕 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/deogemini/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/deogemini/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/deogemini/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-
 <br />
 <br />
+
+---
+### 📕 Latest Blog Posts
+<!---BLOG-POST-LIST:START --->
+<!---BLOG-POST-LIST:END --->
 
 [twitter]: https://twitter.com/Deogemini99
 [instagram]: https://instagram.com/de_gemini
