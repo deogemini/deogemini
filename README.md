@@ -34,10 +34,15 @@
 <!---BLOG-POST-LIST:START --->
 <!---BLOG-POST-LIST:END --->
 
+---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deogemini&show_icons=true&hide_border=true" />
+
+</details>
+
 [twitter]: https://twitter.com/Deogemini99
 [instagram]: https://instagram.com/de_gemini
 [linkedin]: https://linkedin.com/in/deo-gemini
 
-<!-- BLOG-POST-LIST:END -->
-
-<img src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
