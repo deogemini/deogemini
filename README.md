@@ -29,9 +29,10 @@
 
 <br />
 
-  <summary> GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deogemini&show_icons=true&hide_border=true" />
+<summary> GitHub Stats</summary>
+
+  <img align="left" alt="deogemini's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deogemini&show_icons=true&hide_border=true" />
 
 
 [twitter]: https://twitter.com/Deogemini99
