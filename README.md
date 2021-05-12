@@ -29,8 +29,7 @@
 
 <br />
 
-
-<summary> GitHub Stats</summary>
+### <summary> GitHub Stats</summary>
 
   <img align="left" alt="deogemini's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deogemini&show_icons=true&hide_border=true" />
 
