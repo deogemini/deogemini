@@ -26,13 +26,11 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
 <br />
 
+### 📊 **This week I spent my time on**
 
-<summary> GitHub Stats</summary>
-
-  <img align="left" alt="deogemini's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deogemini&show_icons=true&hide_border=true" />
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=deogemini&hide_title=true&hide_border=true&langs_count=5)
 
 
 [twitter]: https://twitter.com/Deogemini99
