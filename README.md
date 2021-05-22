@@ -1,4 +1,6 @@
 ### Hi there, I'm Deogemini <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+  <img align="right" alt="deogemini's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deogemini&show_icons=true&hide_border=true" />
+
 
 ## This is the place where I am changing coffee to code and break things :rofl:
 
@@ -6,7 +8,7 @@
 - 🌱 I’m currently learning FLUTTER FRAMEWORK and BSc in Computer Science
 - 🥅 2021 Goals: Contribute more by using github and git 
 
-- 💬 Ask me about anything related to PHP/JAVA/Spring  or Android native
+- 💬 Ask me about anything related to PHP/JAVA/Spring
 
 - ⚡ Fun fact: I :love movies
 
@@ -29,9 +31,6 @@
 
 <br />
 
-### <summary> GitHub Stats</summary>
-
-  <img align="left" alt="deogemini's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deogemini&show_icons=true&hide_border=true" />
 
 
 [twitter]: https://twitter.com/Deogemini99
