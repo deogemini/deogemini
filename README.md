@@ -5,7 +5,7 @@
 ## This is the place where I am changing coffee to code and break things :rofl:
 
 - 🔭 I’m currently working on something cool :[MPIS](https://github.com/deogemini/MPIS.git):
-- 🌱 I’m currently learning FLUTTER FRAMEWORK and BSc in Computer Science
+- 🌱 I’m currently learning FLUTTER FRAMEWORK and LARAVEL FRAMEWORK
 - 🥅 2021 Goals: Contribute more by using github and git 
 
 - 💬 Ask me about anything related to PHP/JAVA/Spring
