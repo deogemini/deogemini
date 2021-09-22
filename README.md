@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning FLUTTER FRAMEWORK and LARAVEL FRAMEWORK
 - 🥅 2021 Goals: Contribute more by using github and git 
 
-- 💬 Ask me about anything related to PHP/JAVA/Spring
+- 💬 Ask me about anything related to PHP
 
 - ⚡ Fun fact: I :love movies
 
