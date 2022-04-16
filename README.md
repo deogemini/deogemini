@@ -2,13 +2,13 @@
 
 ## This is the place where I am changing coffee to code:rofl:
 
-- 🔭 I’m currently working on something cool :[MPIS](https://github.com/deogemini/MPIS.git):
+- 🔭 I’m currently working as remotely software developer
 - 🌱 I’m currently learning FLUTTER FRAMEWORK and LARAVEL FRAMEWORK
-- 🥅 2021 Goals: Contribute more by using github and git 
+- 🥅 2022 Goals: finishing the started projects
 
 - 💬 Ask me about anything related to PHP
 
-- ⚡ Fun fact: I :love movies
+- ⚡ Fun fact: I :love movies and memes
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
