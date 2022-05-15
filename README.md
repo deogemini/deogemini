@@ -1,10 +1,10 @@
 ### Hi there, I'm Deogemini <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-## I love github more than candy
+## I love github more than candy:rolf
 
 - 💬 Ask me about anything related to PHP
 
-- ⚡ Fun fact: I :love movies and memes
+- ⚡ Fun fact: I love movies and memes
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
