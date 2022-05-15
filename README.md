@@ -1,6 +1,6 @@
 ### Hi there, I'm Deogemini <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-## I love github more than candy:rolf
+## I love github more than candy
 
 - 💬 Ask me about anything related to PHP
 
