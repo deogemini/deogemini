@@ -23,6 +23,4 @@
 [instagram]: https://instagram.com/de_gemini
 [linkedin]: https://linkedin.com/in/deo-gemini
 
-<img align="bottom" alt="deogemini's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deogemini&show_icons=true&hide_border=true" />
-
 
