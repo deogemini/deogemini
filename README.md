@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/tranceteo" target="blank"><img src="https://img.shields.io/twitter/follow/tranceteo?logo=twitter&style=for-the-badge" alt="tranceteo" /></a> </p>
 
-- 🔭 I’m currently working on [POSS](https://github.com/deogemini/POSS)
 
-- 🌱 I’m currently learning **Angular & AWS**
-
-- 👯 I’m looking to collaborate on **SKW**
 
 - 👨‍💻 All of my projects are available at [https://deog-portfolio.netlify.app/](https://deog-portfolio.netlify.app/)
 
-- 💬 Ask me about **backend & devops**
+- 💬 My Focus is backend by Laravel and Spring Boot frameworks frontend by VUE JS
 
 - 📫 How to reach me **geminideogratias8@gmail.com**
 
