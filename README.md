@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **geminideogratias8@gmail.com**
 
-- ⚡ Kind of software I developed **Website Systems, Android Applications, APIs and Gateways, Automated Chats and ChatBots**
+- ⚡ Kind of software I developed are **Website Systems, Android Applications, APIs and Gateways, Automated Chats and ChatBots**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
