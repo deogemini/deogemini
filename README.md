@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm deogemini</h1>
-<h3 align="center">A software developer from Tanzania</h3>
+<h3 align="center">A software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deogemini&label=Profile%20views&color=0e75b6&style=flat" alt="deogemini" /> </p>
 
@@ -11,11 +11,12 @@
 
 - 👨‍💻 All of my projects are available at [https://deog-portfolio.netlify.app/](https://deog-portfolio.netlify.app/)
 
-- 💬 My Focus is backend by Laravel and Spring Boot frameworks frontend by VUE JS
+- 💬 My Primary languages Java, PHP and Javascript. 
+- 💬 My Focus is backend by Laravel, Spring Boot and NodeJs frameworks frontend by VUE JS
 
 - 📫 How to reach me **geminideogratias8@gmail.com**
 
-- ⚡ Fun fact **I love to watch moves when am zero stress**
+- ⚡ Kind of software I developed ** Website Systems, Android Applications, APIs and Gateways, Automated Chats and ChatBots**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
