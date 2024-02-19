@@ -11,7 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://deog-portfolio.netlify.app/](https://deog-portfolio.netlify.app/)
 
-- 💬 My Primary languages Java, PHP and Javascript. 
+- 💬 My Primary languages Java, PHP and Javascript.
+- 📱 I code flutter for android applications
 - 💬 My Focus is backend by Laravel, Spring Boot and NodeJs frameworks frontend by VUE JS
 
 - 📫 How to reach me **geminideogratias8@gmail.com**
