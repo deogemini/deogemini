@@ -26,3 +26,6 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deogemini&show_icons=true&locale=en&layout=compact" alt="deogemini" /></p>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=deogemini&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
