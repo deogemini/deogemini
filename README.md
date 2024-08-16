@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/tranceteo" target="blank"><img src="https://img.shields.io/twitter/follow/tranceteo?logo=twitter&style=for-the-badge" alt="tranceteo" /></a> </p>
 
-
-
-- 👨‍💻 All of my projects are available at [https://deog-portfolio.netlify.app/](https://deog-portfolio.netlify.app/)
-
 - 💬 My Primary languages Java, PHP and Javascript.
 - 📱 I code flutter for android applications
 - 💬 My Focus is backend by Laravel, Spring Boot and NodeJs frameworks frontend by VUE JS
